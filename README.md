@@ -2,9 +2,9 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Ycg48pVp3SU)
 
-About This Course:
+
+About This Project:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB Integration
